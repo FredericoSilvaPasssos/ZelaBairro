@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base da janela; as cores reais da interface vêm do tema Compose (ui/theme). -->
+    <style name="Theme.ZelaBairro" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF00594F</item>
+    </style>
+</resources>
